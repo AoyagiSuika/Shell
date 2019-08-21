@@ -4,9 +4,11 @@
 # @Project: Reprise
 # @Filename: puissance.sh
 # @Last modified by:   suika
-# @Last modified time: 21-08-2019
+# @Last modified time: 22-08-2019
 
 #!/bin/bash
+
+# Un script qui calcule x^x
 
 echo "Saisir une valeur : "
 read -r nb

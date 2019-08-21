@@ -4,9 +4,11 @@
 # @Project: Reprise
 # @Filename: factorielle.sh
 # @Last modified by:   suika
-# @Last modified time: 21-08-2019
+# @Last modified time: 22-08-2019
 
 #!/bin/sh
+
+# Un calcul de factorielle
 
 res=1
 i=1

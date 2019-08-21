@@ -4,9 +4,11 @@
 # @Project: Reprise
 # @Filename: calculatrice.sh
 # @Last modified by:   suika
-# @Last modified time: 21-08-2019
+# @Last modified time: 22-08-2019
 
 #!/bin/sh
+
+# Une calculatrice basique
 
 res=0
 

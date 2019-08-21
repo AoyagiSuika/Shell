@@ -4,9 +4,11 @@
 # @Project: Reprise
 # @Filename: note_v3.sh
 # @Last modified by:   suika
-# @Last modified time: 21-08-2019
+# @Last modified time: 22-08-2019
 
 #!/bin/sh
+
+# Un programme qui donne une appréciation en fonction d'une note
 
 if [ "$#" -eq 0 ]; then
   echo "Entrez votre note : "

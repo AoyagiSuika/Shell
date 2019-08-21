@@ -4,9 +4,13 @@
 # @Project: Reprise
 # @Filename: TestUser.sh
 # @Last modified by:   suika
-# @Last modified time: 21-08-2019
+# @Last modified time: 22-08-2019
 
 #!/bin/bash
+
+# Un script qui propose un menu permettant de choisir entre vérifier si
+# un utilisateur existe, obtenir des informations sur un utilisateur
+# et quitter le script
 
 function pause {
     echo "Appuyez sur entrée pour continuer"

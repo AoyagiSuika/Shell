@@ -8,6 +8,9 @@
 
 #!/bin/sh
 
+# Un programme qui affiche tous les répertoires, fichiers et exécutables
+# dans un dossier et les compte
+
 j=0
 k=0
 l=0
