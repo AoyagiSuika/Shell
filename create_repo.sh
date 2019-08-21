@@ -1,7 +1,7 @@
 # @Author: Dahak Déborah <dahak_d>
 # @Date:   21-08-2019
 # @Email:  deborah.dahak@gmail.com
-# @Project: Reprise
+# @Project: Basics
 # @Filename: create_repo.sh
 # @Last modified by:   suika
 # @Last modified time: 21-08-2019
