@@ -4,9 +4,7 @@
 # @Project: Basics
 # @Filename: create_repo.sh
 # @Last modified by:   suika
-# @Last modified time: 22-08-2019
-
-
+# @Last modified time: 27-08-2019
 
 #!/bin/sh
 
@@ -16,6 +14,6 @@ git init;
 echo "Veuillez entrer le nom du repo GitHub : ";
 read repo;
 echo "Veuillez entrer votre mot de passe GitHub : ";
-curl -u 'AoyagiSuika' https://api.github.com/user/repos -d '{"name":"$repo"}';
+#curl -u 'AoyagiSuika' https://api.github.com/user/repos -d '{"name": "$repo"}';
 git remote add origin git@github.com:AoyagiSuika/$repo.git;
 echo "Le repo $repo a bien été créé.";
