@@ -13,7 +13,7 @@
 git init;
 echo "Veuillez entrer le nom du repo GitHub : ";
 read repo;
-echo "Veuillez entrer votre mot de passe GitHub : ";
+#echo "Veuillez entrer votre mot de passe GitHub : ";
 #curl -u 'AoyagiSuika' https://api.github.com/user/repos -d '{"name": "$repo"}';
 git remote add origin git@github.com:AoyagiSuika/$repo.git;
 echo "Le repo $repo a bien été créé.";
